@@ -1,2 +1,2 @@
 # sample-cloud9
-creating a project using AWS cloud9
+creating a dockerize python project using AWS cloud9
